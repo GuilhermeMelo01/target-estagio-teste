@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MÊS DE FEVEREIRO -->
+<mes ano="2023" mes="02">
+    <dia data="01">
+        <vendas>
+            <produto tipo="tenis">300</produto>
+        </vendas>
+    </dia>
+    <dia data="02">
+        <vendas>
+            <produto tipo="carro">5640</produto>
+        </vendas>
+    </dia>
+    <dia data="03">
+        <vendas>
+            <produto tipo="mochila">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="04">
+        <vendas>
+            <produto tipo="blusa">1500</produto>
+        </vendas>
+    </dia>
+    <dia data="05">
+        <vendas>
+            <produto tipo="moto">2700</produto>
+        </vendas>
+    </dia>
+    <dia data="06">
+        <vendas>
+            <!-- SABADO -->
+        </vendas>
+    </dia>
+    <dia data="07">
+        <vendas>
+            <!-- DOMINGO -->
+        </vendas>
+    </dia>
+    <dia data="08">
+        <vendas>
+            <produto tipo="bicicleta">1800</produto>
+        </vendas>
+    </dia>
+    <dia data="09">
+        <vendas>
+            <produto tipo="biz">3000</produto>
+        </vendas>
+    </dia>
+    <dia data="10">
+        <vendas>
+            <produto tipo="moto">800</produto>
+        </vendas>
+    </dia>
+    <dia data="11">
+        <vendas>
+            <produto tipo="biz">900</produto>
+        </vendas>
+    </dia>
+    <dia data="12">
+        <vendas>
+            <produto tipo="tenis">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="13">
+        <vendas>
+            <produto tipo="drone">1500</produto>
+        </vendas>
+    </dia>
+    <dia data="14">
+        <vendas>
+            <produto tipo="cama">900</produto>
+        </vendas>
+    </dia>
+    <dia data="15">
+        <vendas>
+            <produto tipo="fone">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="16">
+        <vendas>
+            <produto tipo="sofa">800</produto>
+        </vendas>
+    </dia>
+    <dia data="17">
+        <vendas>
+            <produto tipo="mesa">900</produto>
+        </vendas>
+    </dia>
+    <dia data="18">
+        <vendas>
+            <produto tipo="tv">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="19">
+        <vendas>
+            <produto tipo="pc">2500</produto>
+        </vendas>
+    </dia>
+    <dia data="20">
+        <vendas>
+            <produto tipo="notebook">1800</produto>
+        </vendas>
+    </dia>
+    <dia data="21">
+        <vendas>
+            <produto tipo="tv">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="22">
+        <vendas>
+            <produto tipo="cama">1500</produto>
+        </vendas>
+    </dia>
+    <dia data="23">
+        <vendas>
+            <produto tipo="carro">1800</produto>
+        </vendas>
+    </dia>
+    <dia data="24">
+        <vendas>
+            <produto tipo="moto">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="25">
+        <vendas>
+            <!-- FERIADO -->
+        </vendas>
+    </dia>
+    <dia data="26">
+        <vendas>
+            <produto tipo="televisao">1800</produto>
+        </vendas>
+    </dia>
+    <dia data="27">
+        <vendas>
+            <produto tipo="pc">1000</produto>
+        </vendas>
+    </dia>
+    <dia data="28">
+        <vendas>
+            <produto tipo="notebook">1500</produto>
+        </vendas>
+    </dia>
+</mes>
